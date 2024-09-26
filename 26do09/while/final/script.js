@@ -1,4 +1,4 @@
-let pessoas, lucro, lucrof = -1000, ingf = 0
+let pessoas, lucro, lucrof = 0, ingf = 0
 let ing = 150
 pessoas = parseInt(prompt("Quantas pessoas estão previstas de ir:"))
 while (ing > 0) {
